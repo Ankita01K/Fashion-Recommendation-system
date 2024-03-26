@@ -60,7 +60,7 @@
 **Run the Streamlit App**
 
 ```bash
-  streamlit run app.py
+  streamlit run main.py
 ```
 
 ![Screenshot 2024-03-25 052933](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/4aabc6bc-4493-4295-8360-c20e1a8ffa06)
