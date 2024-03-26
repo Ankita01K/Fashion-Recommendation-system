@@ -39,7 +39,7 @@
 
 + **K-Nearest Neighbors algorithm with Euclidean distance as a metric to pick out most similar recommendations.**
 
-![Screenshot 2024-03-26 065343](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/9f18a6d9-53bf-4f89-8e18-5664c752aed5)
+![Screenshot 2024-03-26 065343](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/3bcce95e-2a87-41cc-a862-a4ba9ea2a450)
 
 ## Deployment
 
