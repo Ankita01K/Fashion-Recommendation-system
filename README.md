@@ -14,17 +14,17 @@
 
 + **TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
 
-+ **Load Image**:   **Images are loaded into the system.**
++ **Load Image:**   **Images are loaded into the system.**
 
-+ **Convert Image to Array**:  **Images are converted into arrays suitable for machine learning models.**
++ **Convert Image to Array:**  **Images are converted into arrays suitable for machine learning models.**
 
-+ **Expand Dimensions for Batch Input**:  **Dimensionality is expanded to facilitate batch processing**.
++ **Expand Dimensions for Batch Input:**  **Dimensionality is expanded to facilitate batch processing**.
 
-+ **Align RGB to BGR**:  **Adjustments are made to align color models.**
++ **Align RGB to BGR:**  **Adjustments are made to align color models.**
 
-+ **Flatten**:  **Arrays are flattened for further processing**.
++ **Flatten:**  **Arrays are flattened for further processing**.
 
-+ **Normalization**:  **Normalization of data enhances model performance**.
++ **Normalization:**  **Normalization of data enhances model performance**.
 
 ## **Flow chart**
 
