@@ -27,9 +27,7 @@
 + **Normalization:**  **Normalization of data enhances model performance**.
 
 ## **Flow chart**
-
-![Screenshot 2024-03-26 050006](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/0d1b1ee8-dd0c-4a66-9404-f83338650f49)
-
+![Screenshot 2024-03-26 050006](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/5ad7a6b3-bed5-4006-b4d7-82b5235d43a4)
 
 ## **Model:**
 
