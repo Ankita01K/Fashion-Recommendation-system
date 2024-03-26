@@ -7,18 +7,14 @@
 
  ## **Data Collection:**
 
-**The dataset for this project is sourced from an e-commerce website available on Kaggle here**.<html>
-                                                                                                <p>
-                                                                                                <a href='https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images/'> Link </a>
-                                                                                                </p>
-                                                                                                </html>
+**The dataset for this project is sourced from an e-commerce website available on Kaggle [Here]([https://pages.github.com/](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images))**
                                                                                                 
 
  ## **Data Pre-processing:**
 
 **TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
 
-`#**Load Image**:  **Images are loaded into the system.**`
+**Load Image**:   **Images are loaded into the system.**
 
 **Convert Image to Array**:  **Images are converted into arrays suitable for machine learning models.**
 
