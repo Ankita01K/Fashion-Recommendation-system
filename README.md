@@ -7,7 +7,7 @@
 
  ## **Data Collection:**
 
-**The dataset for this project is sourced from an e-commerce website available on Kaggle** [Here]([https://pages.github.com/](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images))
+**The dataset for this project is sourced from an e-commerce website available on Kaggle** [Here](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images).
                                                                                                 
 
  ## **Data Pre-processing:**
