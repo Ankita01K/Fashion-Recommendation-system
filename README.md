@@ -12,7 +12,7 @@
 
  ## **Data Pre-processing:**
 
-+ **TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
+**TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
 
 + **Load Image:**   **Images are loaded into the system.**
 
