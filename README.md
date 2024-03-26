@@ -39,7 +39,7 @@
 
 + **K-Nearest Neighbors algorithm with Euclidean distance as a metric to pick out most similar recommendations.**
 
-
+![Screenshot 2024-03-26 065343](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/9f18a6d9-53bf-4f89-8e18-5664c752aed5)
 
 ## Deployment
 
@@ -62,6 +62,7 @@
 ```bash
   streamlit run main.py
 ```
+## **Demo**
 
 ![Screenshot 2024-03-25 052933](https://github.com/Ankita01K/Fashion-Recommendation-system/assets/123232024/4aabc6bc-4493-4295-8360-c20e1a8ffa06)
 
