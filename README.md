@@ -9,7 +9,7 @@
 
 **The dataset for this project is sourced from an e-commerce website available on Kaggle here**.<html>
                                                                                                 <p>
-                                                                                                <a https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+                                                                                                <a href='https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images'
                                                                                                 </p>
                                                                                                 </html>
                                                                                                 
