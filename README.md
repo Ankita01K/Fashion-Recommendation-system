@@ -7,7 +7,8 @@
 
  ## **Data Collection:**
 
-**The dataset for this project is sourced from an e-commerce website available on Kaggle here**.<html>
+**The dataset for this project is sourced from an e-commerce website available on Kaggle here**.
+                                                                                                <html>
                                                                                                 <p>
                                                                                                 <a https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
                                                                                                 </p>
@@ -17,17 +18,17 @@
 
 **TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
 
- ### **Load Image**: Images are loaded into the system.
+**Load Image**:  **Images are loaded into the system.**
 
-### **Convert Image to Array**: Images are converted into arrays suitable for machine learning models.
+**Convert Image to Array**:  **Images are converted into arrays suitable for machine learning models.**
 
-### **Expand Dimensions for Batch Input**: Dimensionality is expanded to facilitate batch processing.
+**Expand Dimensions for Batch Input**:  **Dimensionality is expanded to facilitate batch processing**.
 
-### **Align RGB to BGR**: Adjustments are made to align color models.
+**Align RGB to BGR**:  **Adjustments are made to align color models.**
 
-### **Flatten**: Arrays are flattened for further processing.
+**Flatten**:  **Arrays are flattened for further processing**.
 
-### **Normalization**: Normalization of data enhances model performance.
+**Normalization**:  **Normalization of data enhances model performance**.
 
 ## **Flow chart**
 
@@ -38,9 +39,9 @@
 
 **ResNet stands for Residual Network and is a specific type of convolutional neural network (CNN). ResNet-50 is a 50-layer convolutional neural network (48 convolutional layers, one MaxPool layer, and one average pool layer). Residual neural networks are a type of artificial neural network (ANN) that forms networks by stacking residual blocks.**
 
-### 1-**RESNET50 is used in order to reduce computing time and achieve better results.**
+**RESNET50 is used in order to reduce computing time and achieve better results.**
 
-### 2-**K-Nearest Neighbors algorithm with Euclidean distance as a metric to pick out most similar recommendations.**
+**K-Nearest Neighbors algorithm with Euclidean distance as a metric to pick out most similar recommendations.**
 
 
 
