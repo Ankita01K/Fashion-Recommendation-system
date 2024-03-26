@@ -3,7 +3,7 @@
 
 ## **Introduction**
 
-**Fashion Recommendation System leverages the prowess of transfer learning utilizing the ResNet-50 architecture along with an optimized K-Nearest Neighbors (KNN) algorithm. By extracting features from a vast dataset of over 45,000 images through transfer learning with ResNet-50, the system effectively analyzes image data. Implementing a similarity search approach using KNN, the system offers personalized fashion recommendations by identifying the top 5 closest matches to user input. This system, with its user-friendly interface and intuitive design, ensures accurate and efficient analysis of image data**
+**Fashion Recommendation System leverages the prowess of transfer learning utilizing the ResNet-50 architecture along with an optimized K-Nearest Neighbors (KNN) algorithm. By extracting features from a dataset of over 2906 images through transfer learning with ResNet-50, the system effectively analyzes image data. Implementing a similarity search approach using KNN, the system offers personalized fashion recommendations by identifying the top 5 closest matches to user input. This system, with its user-friendly interface and intuitive design, ensures accurate and efficient analysis of image data**
 
  ## **Data Collection:**
 
