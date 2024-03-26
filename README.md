@@ -18,7 +18,7 @@
 
 **TensorFlow's robust set of tools is employed to manipulate data efficiently for training neural networks. The process involves:**
 
- `#RRGGBB` **Load Image**:  **Images are loaded into the system.**
+`#**Load Image**:  **Images are loaded into the system.**`
 
 **Convert Image to Array**:  **Images are converted into arrays suitable for machine learning models.**
 
